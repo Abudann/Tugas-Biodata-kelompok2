@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-image: url(img/GEDUNG-TKJ.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    max-width: 800px;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333333;
+}
+
+.profile {
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    width: 320px; 
+    height: 200px; 
+    border-radius: 20%;
+}
+
+p {
+    font-size: 16px;
+    color: #333333;
+    margin: 5px 0;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    color: #000000;
+    margin-top: 20px;
+}
