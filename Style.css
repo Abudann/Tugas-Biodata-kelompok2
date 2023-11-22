@@ -15,7 +15,7 @@ body {
 
 .container {
     max-width: 800px;
-    background-color: #ffffff;
+    background-color: #36260a;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
@@ -28,10 +28,13 @@ header {
 
 h1 {
     font-size: 36px;
-    color: #333333;
+    color: #fffdfd;
 }
 
 .profile {
+    background-color: rgba(113, 75, 26, 70);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    border-radius: 8px;
     text-align: center;
     padding: 20px;
 }
@@ -44,7 +47,7 @@ img {
 
 p {
     font-size: 16px;
-    color: #333333;
+    color: #fffdfd;
     margin: 5px 0;
     text-align: center;
 }
